@@ -1,0 +1,14 @@
+ERROR - 2020-01-05 10:25:04 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) /home/k17mppdsg436/public_html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2020-01-05 10:25:04 --> Unable to connect to the database
+ERROR - 2020-01-05 10:25:10 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) /home/k17mppdsg436/public_html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2020-01-05 10:25:10 --> Unable to connect to the database
+ERROR - 2020-01-05 13:30:24 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-05 13:32:25 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-05 13:32:52 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-05 13:40:09 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-05 13:40:16 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-05 13:40:17 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-05 13:41:44 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-05 13:41:44 --> Severity: Notice --> Undefined index: id /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 442
+ERROR - 2020-01-05 13:41:44 --> Severity: Notice --> Trying to get property 'product_image' of non-object /home/k17mppdsg436/public_html/application/models/admin/ProductModel.php 110
+ERROR - 2020-01-05 13:41:44 --> Severity: Notice --> Undefined variable: new /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 469

@@ -1,0 +1,5 @@
+ERROR - 2019-09-14 07:28:26 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
+ERROR - 2019-09-14 09:26:28 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
+ERROR - 2019-09-14 09:26:33 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN /home/k17mppdsg436/public_html/application/models/admin/AdminModel.php 21
+ERROR - 2019-09-14 09:26:36 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
+ERROR - 2019-09-14 15:37:40 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57

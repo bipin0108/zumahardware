@@ -1,0 +1,13 @@
+ERROR - 2020-03-06 11:50:31 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-06 11:50:51 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-06 11:50:51 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-06 11:55:32 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-06 11:55:32 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-06 11:55:38 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-06 11:55:38 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-06 11:55:48 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-06 11:55:48 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-06 12:25:12 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-06 12:25:18 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-06 12:28:01 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-06 12:28:01 --> Your server does not support the GD function required to process this type of image.

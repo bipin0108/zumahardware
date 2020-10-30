@@ -1,0 +1,117 @@
+<?php 
+  $cat_id = $this->uri->segment(3);
+  $obj=&get_instance();
+  $subcategory=$obj->subcategorymodel->get_all_subcategory_by_category($cat_id); 
+  $cat_name = $obj->categorymodel->get_catname_by_id($cat_id);
+?> 
+<link rel="stylesheet" href="<?=base_url('public');?>/components/datatables.net-bs/css/dataTables.bootstrap.min.css">
+<!-- Content Wrapper. Contains page content -->
+  <div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+      <h1>Subcategory</h1>
+      <h4>Category:<?php  echo $cat_name; ?></h4>
+    </section>
+    <!-- Main content -->
+    <section class="content">
+      <div class="row">
+        <div class="col-xs-12">
+           <div class="box box-primary">
+            <div class="box-header">
+              <?php if(!empty($this->session->flashdata('add_success'))): ?>
+              <div class="alert alert-success">
+                  <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+                  <span> <?php echo $this->session->flashdata('add_success'); ?> </span>
+              </div>
+              <?php endif ?>
+              <?php if(!empty($this->session->flashdata('update_success'))): ?>
+              <div class="alert alert-success">
+                  <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+                  <span> <?php echo $this->session->flashdata('update_success'); ?> </span>
+              </div>
+              <?php endif ?>
+              <?php if(!empty($this->session->flashdata('del_success'))): ?>
+              <div class="alert alert-success">
+                  <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+                  <span> <?php echo $this->session->flashdata('del_success'); ?> </span>
+              </div>
+              <?php endif ?>
+              <span><a href="<?php echo base_url('admin/category-list'); ?>" class="btn btn-primary">Back to Category</a></span>
+              <span><a href="<?php echo base_url('admin/create-subcategory/'.$cat_id); ?>" class="btn btn-primary pull-right">Add Subcategory</a></span>
+            </div>
+            <!-- /.box-header -->
+            <div class="box-body">
+              <table id="subcategory_table" class="table table-bordered table-striped">
+                <thead>
+                <tr>
+                  <th>ID</th>
+                  <th>Name</th>
+                  <th>Actions</th>
+                </tr>
+                </thead>
+                <tbody>
+                <?php if(isset($subcategory)){ ?> 
+                <?php $i=1; ?> 
+                <?php foreach($subcategory as $row) { ?>
+                  <tr>
+                    <td><?php echo $i++; ?></td>
+                    <td><?php echo $row->subcat_name; ?></td>
+                    <td style="display: inline-flex;">
+                      <a class="btn btn-sm btn-info margin-5" href="<?php echo base_url('admin/edit-subcategory/'.$cat_id.'/'.$row->subcat_id); ?>"><i class="fa fa-edit"></i></a>
+                      <button data-i="<?php echo $row->subcat_id; ?>" class="btn btn-sm btn-danger delete margin-5"><i class="fa fa-trash"></i></button>
+                      <a class="btn btn-sm btn-info margin-5" href="<?php echo base_url('admin/subproduct-list/'.$row->subcat_id); ?>">Products</a>
+                    </td>
+                    <?php } ?> 
+                  </tr>                  
+                 <?php } ?>   
+               </tbody>
+              </table>
+            </div>
+            <!-- /.box-body -->
+          </div>
+          <!-- /.box -->
+        </div>
+        <!-- /.col -->
+      </div>
+      <!-- /.row -->
+    </section>
+    <!-- /.content -->
+  </div>
+  <!-- /.content-wrapper -->
+<!-- Modal -->
+<div class="modal fade in" id="modalDel">
+  <div class="modal-dialog" >
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">×</span></button>
+        <h4 class="modal-title">Delete Confirmation</h4>
+      </div>
+      <form method="post" action="<?php echo base_url('admin/trash-subcategory'); ?>" id="frmDel">
+        <div class="modal-body">
+          <p>Are you sure you want to delete?</p>
+        </div>
+        <div class="modal-footer">
+          <input type="hidden" name="subcat_id" value="">
+          <input type="hidden" name="cat_id" value="<?php echo $cat_id ?>">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+         <input type="submit" class="btn btn-primary btnclass" value="Yes Delete!">
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+<script src="<?=base_url('public');?>/components/datatables.net/js/jquery.dataTables.min.js"></script>
+<script src="<?=base_url('public');?>/components/datatables.net-bs/js/dataTables.bootstrap.min.js"></script>
+<script type="text/javascript">
+  $(function(){
+    $("#subcategory_table").DataTable();
+  });
+  $(document).ready(function(){
+        $(document).on('click', '.delete', function(){
+            var i = $(this).data('i');
+            $("#frmDel input[name='subcat_id']").val(i);
+            $("#modalDel").modal('show');
+        });
+    });
+</script>

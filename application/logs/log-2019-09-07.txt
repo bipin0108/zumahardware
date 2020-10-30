@@ -1,0 +1,14 @@
+ERROR - 2019-09-07 09:32:45 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN /home/k17mppdsg436/public_html/application/models/admin/AdminModel.php 21
+ERROR - 2019-09-07 12:37:49 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-07 12:42:19 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-07 12:42:23 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-07 12:42:26 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-07 15:02:06 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-07 15:04:59 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-07 15:07:47 --> The upload path does not appear to be valid.
+ERROR - 2019-09-07 15:08:46 --> The upload path does not appear to be valid.
+ERROR - 2019-09-07 15:12:48 --> The upload path does not appear to be valid.
+ERROR - 2019-09-07 15:15:29 --> The upload path does not appear to be valid.
+ERROR - 2019-09-07 15:17:19 --> Severity: Warning --> unlink(./uploads/offer/dealer_offer/): Is a directory /home/k17mppdsg436/public_html/application/controllers/admin/OfferController.php 204
+ERROR - 2019-09-07 15:17:28 --> Severity: Warning --> unlink(./uploads/offer/dealer_offer/): Is a directory /home/k17mppdsg436/public_html/application/controllers/admin/OfferController.php 204
+ERROR - 2019-09-07 15:22:57 --> Severity: Warning --> unlink(./uploads/offer/carpenter_offer/): Is a directory /home/k17mppdsg436/public_html/application/controllers/admin/OfferController.php 266

@@ -1,0 +1,60 @@
+ERROR - 2019-10-04 05:53:43 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
+ERROR - 2019-10-04 09:51:40 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
+ERROR - 2019-10-04 10:54:10 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
+ERROR - 2019-10-04 10:55:14 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
+ERROR - 2019-10-04 10:55:58 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
+ERROR - 2019-10-04 11:09:20 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
+ERROR - 2019-10-04 11:16:00 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 11:16:01 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 11:16:07 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 11:16:08 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 11:16:19 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 11:16:19 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 11:16:21 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 11:16:39 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 11:16:39 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 11:16:41 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 11:17:09 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 11:17:09 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 11:17:10 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 11:32:36 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 11:33:10 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 11:34:34 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 11:53:38 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 11:56:55 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
+ERROR - 2019-10-04 12:25:08 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 12:25:08 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 12:40:28 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
+ERROR - 2019-10-04 12:46:04 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 12:59:22 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
+ERROR - 2019-10-04 13:25:58 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
+ERROR - 2019-10-04 14:47:32 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_USER /home/k17mppdsg436/public_html/application/models/distributor/D_distributorModel.php 21
+ERROR - 2019-10-04 14:47:53 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN /home/k17mppdsg436/public_html/application/models/admin/AdminModel.php 21
+ERROR - 2019-10-04 15:03:57 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 15:04:01 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 15:04:02 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 15:06:28 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 15:06:28 --> Severity: Notice --> Undefined index: id /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 241
+ERROR - 2019-10-04 15:06:28 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - Invalid query: SELECT name FROM products WHERE id = 
+ERROR - 2019-10-04 15:58:10 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 15:58:10 --> Severity: Notice --> Undefined index: id /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 241
+ERROR - 2019-10-04 15:58:10 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - Invalid query: SELECT name FROM products WHERE id = 
+ERROR - 2019-10-04 16:45:54 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 16:45:55 --> Severity: Notice --> Undefined index: id /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 241
+ERROR - 2019-10-04 16:45:55 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - Invalid query: SELECT name FROM products WHERE id = 
+ERROR - 2019-10-04 16:52:16 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 16:52:18 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 16:52:18 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 16:52:19 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 16:52:19 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 16:52:20 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 16:52:20 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 16:54:19 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 16:54:19 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 16:54:20 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 16:54:20 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 16:59:10 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 16:59:11 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 16:59:17 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 16:59:17 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-10-04 19:24:47 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57

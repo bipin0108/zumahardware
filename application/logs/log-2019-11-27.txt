@@ -1,0 +1,72 @@
+ERROR - 2019-11-27 12:50:41 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 14:04:01 --> Severity: Notice --> Undefined index: product /home/k17mppdsg436/public_html/application/controllers/Home.php 50
+ERROR - 2019-11-27 15:35:51 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN /home/k17mppdsg436/public_html/application/models/admin/AdminModel.php 21
+ERROR - 2019-11-27 15:37:58 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 15:38:01 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 15:38:01 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 15:38:09 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 15:38:09 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 15:38:18 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 15:38:18 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 15:39:23 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 15:39:23 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 15:55:19 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN /home/k17mppdsg436/public_html/application/models/admin/AdminModel.php 21
+ERROR - 2019-11-27 15:55:20 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN /home/k17mppdsg436/public_html/application/models/admin/AdminModel.php 21
+ERROR - 2019-11-27 15:55:34 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 15:55:37 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 15:55:37 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 15:55:47 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 15:55:47 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 16:22:44 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 16:44:37 --> Severity: error --> Exception: syntax error, unexpected end of file /home/k17mppdsg436/public_html/application/views/frontend/home.php 64
+ERROR - 2019-11-27 17:33:31 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:33:33 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:33:34 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:35:12 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:35:12 --> The path to the image is not correct.
+ERROR - 2019-11-27 17:35:12 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:35:13 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:35:43 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:37:50 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:37:50 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:37:53 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:37:53 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:38:17 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:38:17 --> Severity: Warning --> unlink(./uploads/products/product_images/1574856312_ZUMA-6.02.jpg): No such file or directory /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 596
+ERROR - 2019-11-27 17:38:42 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:38:42 --> Severity: Warning --> unlink(./uploads/products/product_images/1574856312_ZUMA-6.02.jpg): No such file or directory /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 596
+ERROR - 2019-11-27 17:38:53 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:42:47 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:42:47 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:43:04 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:43:04 --> The path to the image is not correct.
+ERROR - 2019-11-27 17:43:04 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:43:04 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:43:34 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:44:24 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:44:24 --> Severity: Warning --> unlink(./uploads/products/product_images/1574856784_ZUMA-6.02.jpg): No such file or directory /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 596
+ERROR - 2019-11-27 17:44:32 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:44:33 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:44:45 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:44:45 --> The path to the image is not correct.
+ERROR - 2019-11-27 17:44:45 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:44:45 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:45:15 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:45:32 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:45:32 --> Severity: Warning --> unlink(./uploads/products/product_images/1574856885_ZUMA-6.02.jpg): No such file or directory /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 596
+ERROR - 2019-11-27 17:45:46 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:45:46 --> Severity: Warning --> unlink(./uploads/products/product_images/1574856885_ZUMA-6.02.jpg): No such file or directory /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 596
+ERROR - 2019-11-27 17:45:48 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:45:49 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:45:52 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:45:52 --> Severity: Notice --> Undefined variable: new /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 546
+ERROR - 2019-11-27 17:45:52 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:45:52 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:46:11 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:46:11 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:46:11 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:47:00 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:48:33 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-27 17:48:33 --> Severity: Notice --> Undefined index: id /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 504
+ERROR - 2019-11-27 17:48:33 --> Severity: Notice --> Trying to get property 'product_image' of non-object /home/k17mppdsg436/public_html/application/models/admin/ProductModel.php 110
+ERROR - 2019-11-27 17:48:33 --> Severity: Notice --> Undefined variable: new /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 546

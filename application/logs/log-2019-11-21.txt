@@ -1,0 +1,489 @@
+ERROR - 2019-11-21 00:19:35 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 00:19:35 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 00:19:35 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 00:19:35 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 00:19:35 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 00:19:35 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 00:19:35 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 00:19:35 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 00:19:35 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 04:54:44 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 04:54:44 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 04:54:44 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 04:54:44 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 04:54:44 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 04:54:44 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 04:54:44 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 04:54:44 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 04:54:44 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 07:28:52 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 07:28:52 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 07:28:52 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 07:28:52 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 07:28:52 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 07:28:52 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 07:28:52 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 07:28:52 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 07:28:52 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 07:30:02 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 07:30:02 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 07:30:02 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 07:30:02 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 07:30:02 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 07:30:02 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 07:30:02 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 07:30:02 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 07:30:02 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 07:30:06 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 07:30:06 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 07:30:06 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 07:30:06 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 07:30:06 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 07:30:06 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 07:30:06 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 07:30:06 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 07:30:06 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 07:39:17 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 07:39:17 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 07:39:17 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 07:39:17 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 07:39:17 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 07:39:17 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 07:39:17 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 07:39:17 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 07:39:17 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 07:47:46 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 07:47:46 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 07:47:46 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 07:47:46 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 07:47:46 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 07:47:46 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 07:47:46 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 07:47:46 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 07:47:46 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 08:07:12 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 08:07:12 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 08:07:12 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 08:07:12 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 08:07:12 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 08:07:12 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 08:07:13 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 08:07:13 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 08:07:13 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 08:07:20 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 08:07:20 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 08:07:20 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 08:07:20 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 08:07:20 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 08:07:20 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 08:07:20 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 08:07:20 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 08:07:20 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 08:07:22 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 08:07:22 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 08:07:22 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 08:07:22 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 08:07:22 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 08:07:22 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 08:07:22 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 08:07:22 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 08:07:22 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 08:09:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 08:09:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 08:09:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 08:09:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 08:09:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 08:09:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 08:09:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 08:09:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 08:09:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 08:09:46 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 08:09:46 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 08:09:46 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 08:09:46 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 08:09:46 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 08:09:46 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 08:09:46 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 08:09:46 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 08:09:46 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 08:53:58 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 08:53:58 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 08:53:58 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 08:53:58 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 08:53:58 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 08:53:58 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 08:53:58 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 08:53:58 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 08:53:58 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 09:02:46 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 09:02:46 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 09:02:46 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 09:02:46 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 09:02:46 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 09:02:46 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 09:02:46 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 09:02:46 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 09:02:46 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 09:03:00 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 09:03:00 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 09:03:00 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 09:03:00 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 09:03:00 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 09:03:00 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 09:03:00 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 09:03:00 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 09:03:00 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 10:26:51 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 10:26:51 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 10:26:51 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 10:26:51 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 10:26:51 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 10:26:51 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 10:26:51 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 10:26:51 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 10:26:51 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 10:27:50 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 10:27:50 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 10:27:50 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 10:27:50 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 10:27:50 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 10:27:50 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 10:27:50 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 10:27:50 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 10:27:50 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 10:31:05 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 10:31:05 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 10:31:05 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 10:31:05 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 10:31:05 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 10:31:05 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 10:31:05 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 10:31:05 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 10:31:05 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 10:31:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 10:31:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 10:31:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 10:31:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 10:31:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 10:31:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 10:31:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 10:31:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 10:31:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 10:55:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 10:55:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 10:55:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 10:55:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 10:55:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 10:55:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 10:55:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 10:55:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 10:55:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 10:55:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 10:55:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 10:55:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 10:55:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 10:55:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 10:55:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 10:55:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 10:55:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 10:55:31 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 10:56:53 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 10:56:53 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 10:56:53 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 10:56:53 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 10:56:53 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 10:56:53 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 10:56:53 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 10:56:53 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 10:56:53 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 10:58:39 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 10:58:42 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 10:58:42 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 10:58:48 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 10:58:48 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 10:58:48 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 10:58:50 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 10:58:51 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 10:58:51 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 10:58:53 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 10:58:53 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 10:58:54 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 10:59:30 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 10:59:30 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 10:59:31 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 10:59:33 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 10:59:33 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 11:02:01 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 11:02:01 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 11:02:01 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 11:02:01 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 11:02:01 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 11:02:01 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 11:02:01 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 11:02:01 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 11:02:01 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 11:02:02 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 11:02:02 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 11:02:02 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 11:02:02 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 11:02:02 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 11:02:02 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 11:02:02 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 11:02:02 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 11:02:02 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 11:04:18 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 11:04:18 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 11:04:36 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 11:05:18 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 11:17:08 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 11:17:08 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 11:17:08 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 11:17:08 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 11:17:08 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 11:17:08 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 11:17:08 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 11:17:08 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 11:17:08 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 11:20:24 --> Severity: error --> Exception: syntax error, unexpected end of file /home/k17mppdsg436/public_html/application/views/frontend/product_details.php 324
+ERROR - 2019-11-21 11:20:25 --> Severity: error --> Exception: syntax error, unexpected end of file /home/k17mppdsg436/public_html/application/views/frontend/product_details.php 324
+ERROR - 2019-11-21 11:21:53 --> Severity: error --> Exception: syntax error, unexpected '}', expecting end of file /home/k17mppdsg436/public_html/application/views/frontend/product_details.php 220
+ERROR - 2019-11-21 11:25:55 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 11:25:55 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 11:25:55 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 11:25:55 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 11:25:55 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 11:25:55 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 11:25:55 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 11:25:55 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 11:25:55 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 11:26:12 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 11:26:12 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 11:26:12 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 11:26:12 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 11:26:12 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 11:26:12 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 11:26:12 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 11:26:12 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 11:26:12 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 11:26:13 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 11:26:13 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 11:26:13 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 11:26:13 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 11:26:13 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 11:26:13 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 11:26:13 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 11:26:13 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 11:26:13 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 11:26:44 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 11:26:44 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 11:26:44 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 11:26:44 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 11:26:44 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 11:26:44 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 11:26:44 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 11:26:44 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 11:26:44 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 11:27:07 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 11:27:07 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 11:27:07 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 11:27:07 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 11:27:07 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 11:27:07 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 11:27:07 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 11:27:07 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 11:27:07 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 11:27:26 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN /home/k17mppdsg436/public_html/application/models/admin/AdminModel.php 21
+ERROR - 2019-11-21 11:27:39 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 11:35:28 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 11:35:28 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 11:35:28 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 11:35:28 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 11:35:28 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 11:35:28 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 11:35:28 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 11:35:28 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 11:35:28 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 11:35:29 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 11:35:29 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 11:35:29 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 11:35:29 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 11:35:29 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 11:35:29 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 11:35:29 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 11:35:29 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 11:35:29 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 11:35:38 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 11:35:38 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 11:35:38 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 11:35:38 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 11:35:38 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 11:35:38 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 11:35:38 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 11:35:38 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 11:35:38 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 11:35:43 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 11:35:43 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 11:35:43 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 11:35:43 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 11:35:43 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 11:35:43 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 11:35:43 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 11:35:43 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 11:35:43 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 11:36:48 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 11:36:48 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 11:36:48 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 11:36:48 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 11:36:48 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 11:36:48 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 11:36:48 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 11:36:48 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 11:36:48 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 11:36:51 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN /home/k17mppdsg436/public_html/application/models/admin/AdminModel.php 21
+ERROR - 2019-11-21 11:37:00 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 11:37:19 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 11:37:19 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 11:37:19 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 11:37:19 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 11:37:19 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 11:37:19 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 11:37:19 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 100
+ERROR - 2019-11-21 11:37:19 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 111
+ERROR - 2019-11-21 11:37:19 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 112
+ERROR - 2019-11-21 11:41:07 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 11:41:08 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 11:41:12 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 11:41:18 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 11:41:18 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 11:41:24 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 63
+ERROR - 2019-11-21 11:41:24 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 74
+ERROR - 2019-11-21 11:41:24 --> Severity: Notice --> Trying to get property 'slug' of non-object /home/k17mppdsg436/public_html/application/views/frontend/home.php 75
+ERROR - 2019-11-21 11:41:42 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 11:41:47 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 11:41:48 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 11:41:51 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 11:41:54 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 11:41:55 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 11:56:47 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 11:56:53 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 12:20:32 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 12:20:35 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 12:20:35 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 12:20:41 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 14:23:23 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN /home/k17mppdsg436/public_html/application/models/admin/AdminModel.php 21
+ERROR - 2019-11-21 14:23:37 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 14:45:02 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 14:45:07 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 14:45:07 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 14:45:16 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 14:45:16 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 14:45:17 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 15:41:58 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 15:42:17 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 15:42:18 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 15:42:33 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 15:42:40 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 15:42:41 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 16:45:45 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 16:45:48 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 16:46:06 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 16:46:09 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 16:46:10 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 16:47:02 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 16:47:02 --> Severity: Warning --> array_combine(): Both parameters should have an equal number of elements /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 246
+ERROR - 2019-11-21 16:47:02 --> Severity: Warning --> http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 247
+ERROR - 2019-11-21 16:47:02 --> Query error: Unknown column 'about_product' in 'field list' - Invalid query: UPDATE `products` SET `name` = 'Zuma Delux Cylinder 5 Key', `slug` = 'zuma-delux-cylinder-5-key', `category` = '9', `subcategory` = '11', `description` = '<p>&nbsp;</p>\r\n\r\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"height:50px; width:500px\">\r\n	<tbody>\r\n		<tr>\r\n			<th scope=\"row\" style=\"background-color:#17a2b8; text-align:left; vertical-align:middle\">&nbsp;Size</th>\r\n			<td style=\"text-align:left; vertical-align:middle\">&nbsp;60mm, 70mm, 80mm, 90mm, 100mm, 120mm</td>\r\n		</tr>\r\n		<tr>\r\n			<th scope=\"row\" style=\"background-color:#17a2b8; text-align:left; vertical-align:middle\">&nbsp;Finish Type</th>\r\n			<td style=\"text-align:left; vertical-align:middle\">&nbsp;SS Finish, CP Finish, Antique Black, Black, Rose Gold</td>\r\n		</tr>\r\n		<tr>\r\n			<th scope=\"row\" style=\"background-color:#17a2b8; text-align:left; vertical-align:middle\">&nbsp;Type</th>\r\n			<td style=\"text-align:left; vertical-align:middle\">&nbsp;One Side Key One Side Knob</td>\r\n		</tr>\r\n		<tr>\r\n			<th scope=\"row\" style=\"background-color:#17a2b8; text-align:left; vertical-align:middle\">&nbsp;Material</th>\r\n			<td style=\"text-align:left; vertical-align:middle\">&nbsp;Fully Brass Body,Core &amp; Knob,Brass 5 Key</td>\r\n		</tr>\r\n		<tr>\r\n			<th scope=\"row\" style=\"background-color:#17a2b8; text-align:left; vertical-align:middle\">&nbsp;No. Of Keys</th>\r\n			<td style=\"text-align:left; vertical-align:middle\">&nbsp;5 Brass Computerized Key ensure high Security</td>\r\n		</tr>\r\n		<tr>\r\n			<th scope=\"row\" style=\"background-color:#17a2b8; text-align:left; vertical-align:middle\">&nbsp;Master Pack</th>\r\n			<td style=\"text-align:left; vertical-align:middle\">&nbsp;30 Pcs</td>\r\n		</tr>\r\n		<tr>\r\n			<th scope=\"row\" style=\"background-color:#17a2b8; text-align:left; vertical-align:middle\">&nbsp;Features</th>\r\n			<td style=\"text-align:left; vertical-align:middle\">\r\n			<p>&nbsp;7 pin mechanism which have 7 lateral pins,<br />\r\n			&nbsp;wide range of Key Combination</p>\r\n			</td>\r\n		</tr>\r\n	</tbody>\r\n</table>', `code` = 'ZLS-PC21', `about_product` = 0
+WHERE `id` = '5'
+ERROR - 2019-11-21 16:47:16 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 16:47:16 --> Severity: Notice --> Undefined index: title /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 244
+ERROR - 2019-11-21 16:47:16 --> Severity: Notice --> Undefined index: value /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 245
+ERROR - 2019-11-21 16:47:16 --> Severity: Warning --> array_combine() expects parameter 1 to be array, null given /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 246
+ERROR - 2019-11-21 16:47:16 --> Severity: Warning --> http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 247
+ERROR - 2019-11-21 16:47:16 --> Severity: Notice --> Undefined index: id /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 250
+ERROR - 2019-11-21 16:47:16 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - Invalid query: SELECT name FROM products WHERE id = 
+ERROR - 2019-11-21 16:47:23 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 16:47:26 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 16:47:26 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 16:47:44 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 16:47:44 --> Severity: Warning --> array_combine(): Both parameters should have an equal number of elements /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 246
+ERROR - 2019-11-21 16:47:44 --> Severity: Warning --> http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 247
+ERROR - 2019-11-21 16:47:44 --> Query error: Unknown column 'about_product' in 'field list' - Invalid query: UPDATE `products` SET `name` = 'Zuma Delux Cylinder 5 Key', `slug` = 'zuma-delux-cylinder-5-key', `category` = '9', `subcategory` = '11', `description` = '<p>&nbsp;</p>\r\n\r\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"height:50px; width:500px\">\r\n	<tbody>\r\n		<tr>\r\n			<th scope=\"row\" style=\"background-color:#17a2b8; text-align:left; vertical-align:middle\">&nbsp;Size</th>\r\n			<td style=\"text-align:left; vertical-align:middle\">&nbsp;60mm, 70mm, 80mm, 90mm, 100mm, 120mm</td>\r\n		</tr>\r\n		<tr>\r\n			<th scope=\"row\" style=\"background-color:#17a2b8; text-align:left; vertical-align:middle\">&nbsp;Finish Type</th>\r\n			<td style=\"text-align:left; vertical-align:middle\">&nbsp;SS Finish, CP Finish, Antique Black, Black, Rose Gold</td>\r\n		</tr>\r\n		<tr>\r\n			<th scope=\"row\" style=\"background-color:#17a2b8; text-align:left; vertical-align:middle\">&nbsp;Type</th>\r\n			<td style=\"text-align:left; vertical-align:middle\">&nbsp;One Side Key One Side Knob</td>\r\n		</tr>\r\n		<tr>\r\n			<th scope=\"row\" style=\"background-color:#17a2b8; text-align:left; vertical-align:middle\">&nbsp;Material</th>\r\n			<td style=\"text-align:left; vertical-align:middle\">&nbsp;Fully Brass Body,Core &amp; Knob,Brass 5 Key</td>\r\n		</tr>\r\n		<tr>\r\n			<th scope=\"row\" style=\"background-color:#17a2b8; text-align:left; vertical-align:middle\">&nbsp;No. Of Keys</th>\r\n			<td style=\"text-align:left; vertical-align:middle\">&nbsp;5 Brass Computerized Key ensure high Security</td>\r\n		</tr>\r\n		<tr>\r\n			<th scope=\"row\" style=\"background-color:#17a2b8; text-align:left; vertical-align:middle\">&nbsp;Master Pack</th>\r\n			<td style=\"text-align:left; vertical-align:middle\">&nbsp;30 Pcs</td>\r\n		</tr>\r\n		<tr>\r\n			<th scope=\"row\" style=\"background-color:#17a2b8; text-align:left; vertical-align:middle\">&nbsp;Features</th>\r\n			<td style=\"text-align:left; vertical-align:middle\">\r\n			<p>&nbsp;7 pin mechanism which have 7 lateral pins,<br />\r\n			&nbsp;wide range of Key Combination</p>\r\n			</td>\r\n		</tr>\r\n	</tbody>\r\n</table>', `code` = 'ZLS-PC21', `about_product` = 0
+WHERE `id` = '5'
+ERROR - 2019-11-21 16:50:47 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 16:50:48 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 16:51:08 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 16:51:11 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 16:51:11 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 16:51:21 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 16:51:21 --> Severity: Notice --> Undefined index: value /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 245
+ERROR - 2019-11-21 16:51:21 --> Severity: Warning --> array_combine() expects parameter 2 to be array, null given /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 246
+ERROR - 2019-11-21 16:51:21 --> Severity: Warning --> http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 247
+ERROR - 2019-11-21 16:51:21 --> Query error: Unknown column 'about_product' in 'field list' - Invalid query: UPDATE `products` SET `name` = 'Aaa', `slug` = 'aaa', `category` = '9', `subcategory` = '19', `description` = '<p>aaa</p>', `code` = '4565', `about_product` = 0
+WHERE `id` = '6'
+ERROR - 2019-11-21 16:51:27 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 16:51:28 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 16:51:47 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 16:51:49 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 16:51:50 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:20:13 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:20:17 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:36:56 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:36:57 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:37:07 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:37:07 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:37:07 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:37:39 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:37:41 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN /home/k17mppdsg436/public_html/application/models/admin/AdminModel.php 21
+ERROR - 2019-11-21 18:37:53 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:37:56 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:38:01 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:38:06 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:38:06 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:38:35 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:38:35 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:39:02 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:39:04 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:39:19 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:39:19 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:43:50 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:43:50 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:43:56 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:43:57 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:44:05 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:44:05 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:44:19 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:44:28 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:44:28 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:45:34 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:45:35 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:45:39 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:45:39 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:52:04 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:52:06 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:52:07 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:52:18 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:52:18 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:57:46 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:57:46 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:57:56 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:57:56 --> Severity: Warning --> array_combine(): Both parameters should have an equal number of elements /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 254
+ERROR - 2019-11-21 18:57:56 --> Severity: Warning --> http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 255
+ERROR - 2019-11-21 18:57:56 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:58:18 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:58:19 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:58:27 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:58:27 --> Severity: Notice --> Undefined index: value /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 253
+ERROR - 2019-11-21 18:58:27 --> Severity: Warning --> array_combine() expects parameter 2 to be array, null given /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 254
+ERROR - 2019-11-21 18:58:27 --> Severity: Warning --> http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 255
+ERROR - 2019-11-21 18:58:27 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:58:29 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:58:30 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:58:36 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:58:38 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:58:39 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:58:56 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 18:58:56 --> Severity: Warning --> array_combine(): Both parameters should have an equal number of elements /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 254
+ERROR - 2019-11-21 18:58:56 --> Severity: Warning --> http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 255
+ERROR - 2019-11-21 18:58:57 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 19:00:04 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-21 19:00:05 --> Your server does not support the GD function required to process this type of image.

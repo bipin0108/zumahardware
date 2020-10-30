@@ -1,0 +1,7 @@
+Options -Indexes
+
+DirectoryIndex search1.php
+
+<IfModule mod_rewrite.c>
+RewriteEngine off
+</IfModule>

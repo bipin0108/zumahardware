@@ -1,0 +1,1 @@
+ERROR - 2020-05-29 15:00:22 --> Severity: Notice --> Undefined index: product /home/r00x4i5l0e90/public_html/application/controllers/Home.php 50

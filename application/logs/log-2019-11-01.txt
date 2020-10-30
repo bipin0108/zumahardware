@@ -1,0 +1,1 @@
+ERROR - 2019-11-01 21:45:03 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN /home/k17mppdsg436/public_html/application/models/admin/AdminModel.php 21

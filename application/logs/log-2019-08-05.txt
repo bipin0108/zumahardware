@@ -1,0 +1,452 @@
+ERROR - 2019-08-05 09:36:31 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN C:\xampp\htdocs\zumacorporation\application\models\admin\AdminModel.php 21
+ERROR - 2019-08-05 09:37:29 --> Severity: error --> Exception: Call to undefined method OrderModel::pending_orders() C:\xampp\htdocs\zumacorporation\application\views\distributor\dashboard\dashboard_template.php 16
+ERROR - 2019-08-05 09:40:56 --> Severity: error --> Exception: Call to undefined method OrderModel::pending_orders() C:\xampp\htdocs\zumacorporation\application\views\distributor\dashboard\dashboard_template.php 16
+ERROR - 2019-08-05 09:43:32 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\admin\ReportController.php 70
+ERROR - 2019-08-05 09:43:43 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\admin\ReportController.php 70
+ERROR - 2019-08-05 09:43:46 --> Severity: error --> Exception: Call to undefined method OrderModel::pending_orders() C:\xampp\htdocs\zumacorporation\application\views\distributor\dashboard\dashboard_template.php 16
+ERROR - 2019-08-05 09:44:00 --> Severity: error --> Exception: Call to undefined method OrderModel::pending_orders() C:\xampp\htdocs\zumacorporation\application\views\distributor\dashboard\dashboard_template.php 16
+ERROR - 2019-08-05 09:56:29 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\admin\ReportController.php 70
+ERROR - 2019-08-05 09:58:58 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 67
+ERROR - 2019-08-05 09:59:03 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 67
+ERROR - 2019-08-05 10:00:33 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 67
+ERROR - 2019-08-05 10:04:56 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 67
+ERROR - 2019-08-05 10:06:05 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 68
+ERROR - 2019-08-05 10:07:28 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 10:15:10 --> Severity: error --> Exception: Call to undefined method OrderModel::pending_orders() C:\xampp\htdocs\zumacorporation\application\views\distributor\dashboard\dashboard_template.php 16
+ERROR - 2019-08-05 10:15:47 --> Severity: error --> Exception: Call to undefined method OrderModel::pending_orders() C:\xampp\htdocs\zumacorporation\application\views\distributor\dashboard\dashboard_template.php 16
+ERROR - 2019-08-05 10:16:03 --> Severity: error --> Exception: Call to undefined method OrderModel::pending_orders() C:\xampp\htdocs\zumacorporation\application\views\distributor\dashboard\dashboard_template.php 16
+ERROR - 2019-08-05 10:16:24 --> Severity: error --> Exception: Call to undefined method D_OrderModel::complete_orders() C:\xampp\htdocs\zumacorporation\application\views\distributor\dashboard\dashboard_template.php 58
+ERROR - 2019-08-05 10:16:42 --> Severity: error --> Exception: Call to undefined method D_OrderModel::completed_orders() C:\xampp\htdocs\zumacorporation\application\views\distributor\dashboard\dashboard_template.php 58
+ERROR - 2019-08-05 10:16:44 --> Severity: error --> Exception: Call to undefined method D_OrderModel::completed_orders() C:\xampp\htdocs\zumacorporation\application\views\distributor\dashboard\dashboard_template.php 58
+ERROR - 2019-08-05 10:16:44 --> Severity: error --> Exception: Call to undefined method D_OrderModel::completed_orders() C:\xampp\htdocs\zumacorporation\application\views\distributor\dashboard\dashboard_template.php 58
+ERROR - 2019-08-05 10:16:44 --> Severity: error --> Exception: Call to undefined method D_OrderModel::completed_orders() C:\xampp\htdocs\zumacorporation\application\views\distributor\dashboard\dashboard_template.php 58
+ERROR - 2019-08-05 10:16:45 --> Severity: error --> Exception: Call to undefined method D_OrderModel::completed_orders() C:\xampp\htdocs\zumacorporation\application\views\distributor\dashboard\dashboard_template.php 58
+ERROR - 2019-08-05 10:17:10 --> Severity: error --> Exception: Call to undefined method D_OrderModel::completed_orders() C:\xampp\htdocs\zumacorporation\application\views\distributor\dashboard\dashboard_template.php 58
+ERROR - 2019-08-05 10:17:17 --> Severity: error --> Exception: Call to undefined method D_OrderModel::completed_orders() C:\xampp\htdocs\zumacorporation\application\views\distributor\dashboard\dashboard_template.php 58
+ERROR - 2019-08-05 10:29:48 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\distributor\OrderController.php 71
+ERROR - 2019-08-05 10:29:48 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\distributor\OrderController.php 72
+ERROR - 2019-08-05 10:29:48 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\distributor\OrderController.php 73
+ERROR - 2019-08-05 10:34:26 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\distributor\OrderController.php 71
+ERROR - 2019-08-05 10:34:26 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\distributor\OrderController.php 72
+ERROR - 2019-08-05 10:34:26 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\distributor\OrderController.php 73
+ERROR - 2019-08-05 10:52:52 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\distributor\OrderController.php 71
+ERROR - 2019-08-05 10:52:52 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\distributor\OrderController.php 72
+ERROR - 2019-08-05 10:52:52 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\distributor\OrderController.php 73
+ERROR - 2019-08-05 10:57:05 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\distributor\OrderController.php 71
+ERROR - 2019-08-05 10:57:05 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\distributor\OrderController.php 72
+ERROR - 2019-08-05 10:57:05 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\distributor\OrderController.php 73
+ERROR - 2019-08-05 10:57:22 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\distributor\OrderController.php 71
+ERROR - 2019-08-05 10:57:22 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\distributor\OrderController.php 72
+ERROR - 2019-08-05 10:57:22 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\distributor\OrderController.php 73
+ERROR - 2019-08-05 11:36:43 --> Query error: Unknown column 'o.status' in 'on clause' - Invalid query: SELECT o.* FROM orders AS o 
+   INNER JOIN users AS u 
+   ON o.user_id = u.user_id AND u.distributor_id = '3' AND o.user_id != '3' AND o.status='pending'
+ERROR - 2019-08-05 11:36:46 --> Query error: Unknown column 'o.status' in 'on clause' - Invalid query: SELECT o.* FROM orders AS o 
+   INNER JOIN users AS u 
+   ON o.user_id = u.user_id AND u.distributor_id = '3' AND o.user_id != '3' AND o.status='pending'
+ERROR - 2019-08-05 11:51:57 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-05 11:51:58 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-05 11:59:31 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\admin\ReportController.php 70
+ERROR - 2019-08-05 12:00:13 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\admin\ReportController.php 70
+ERROR - 2019-08-05 12:00:23 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\admin\ReportController.php 70
+ERROR - 2019-08-05 12:00:52 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\admin\ReportController.php 70
+ERROR - 2019-08-05 12:00:53 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\admin\ReportController.php 70
+ERROR - 2019-08-05 12:03:22 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 12:03:33 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 12:03:33 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 105
+ERROR - 2019-08-05 12:03:34 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 12:11:37 --> Severity: error --> Exception: Call to undefined method OrderModel::get_all_order() C:\xampp\htdocs\zumacorporation\application\views\admin\order\list_order.php 3
+ERROR - 2019-08-05 12:11:40 --> Severity: error --> Exception: Call to undefined method OrderModel::get_all_order() C:\xampp\htdocs\zumacorporation\application\views\admin\order\list_order.php 3
+ERROR - 2019-08-05 12:19:55 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\distributor\OrderController.php 78
+ERROR - 2019-08-05 12:19:55 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\distributor\OrderController.php 79
+ERROR - 2019-08-05 12:19:55 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\distributor\OrderController.php 80
+ERROR - 2019-08-05 12:25:59 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-05 12:26:00 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-05 12:26:33 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-05 12:26:33 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-05 12:26:33 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67
+ERROR - 2019-08-05 12:35:46 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-05 12:35:46 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-05 12:35:46 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67
+ERROR - 2019-08-05 12:43:26 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 12:45:07 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 12:46:07 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 12:49:58 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 12:50:25 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 12:50:43 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 12:51:53 --> Severity: Notice --> Undefined index: user_type C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 64
+ERROR - 2019-08-05 12:51:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 80
+ERROR - 2019-08-05 12:52:14 --> Severity: Notice --> Undefined index: user_type C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 64
+ERROR - 2019-08-05 12:52:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 80
+ERROR - 2019-08-05 12:58:05 --> Severity: Notice --> Undefined index: user_type C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 64
+ERROR - 2019-08-05 12:58:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 80
+ERROR - 2019-08-05 12:59:05 --> Severity: Notice --> Undefined index: user_type C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 64
+ERROR - 2019-08-05 12:59:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 80
+ERROR - 2019-08-05 12:59:42 --> Severity: Notice --> Undefined index: user_type C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 64
+ERROR - 2019-08-05 12:59:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 80
+ERROR - 2019-08-05 14:04:25 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:06:15 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:06:21 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:06:54 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:09:43 --> Severity: error --> Exception: syntax error, unexpected '}', expecting end of file C:\xampp\htdocs\zumacorporation\application\views\distributor\report\report.php 132
+ERROR - 2019-08-05 14:09:44 --> Severity: error --> Exception: syntax error, unexpected '}', expecting end of file C:\xampp\htdocs\zumacorporation\application\views\distributor\report\report.php 132
+ERROR - 2019-08-05 14:10:13 --> Severity: error --> Exception: syntax error, unexpected '}', expecting end of file C:\xampp\htdocs\zumacorporation\application\views\distributor\report\report.php 132
+ERROR - 2019-08-05 14:12:03 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:12:53 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:13:00 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:13:28 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:13:46 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:14:09 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:15:08 --> Severity: Notice --> Undefined index: user_type C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 64
+ERROR - 2019-08-05 14:15:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 80
+ERROR - 2019-08-05 14:15:27 --> Severity: Notice --> Undefined index: user_type C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 64
+ERROR - 2019-08-05 14:15:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 80
+ERROR - 2019-08-05 14:16:11 --> Severity: Notice --> Undefined index: user_type C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 64
+ERROR - 2019-08-05 14:16:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 80
+ERROR - 2019-08-05 14:16:30 --> Severity: Notice --> Undefined index: user_type C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 64
+ERROR - 2019-08-05 14:16:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 80
+ERROR - 2019-08-05 14:16:44 --> Severity: Notice --> Undefined index: user_type C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 64
+ERROR - 2019-08-05 14:16:44 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 80
+ERROR - 2019-08-05 14:16:56 --> Severity: Notice --> Undefined index: user_type C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 64
+ERROR - 2019-08-05 14:16:56 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 80
+ERROR - 2019-08-05 14:17:28 --> Severity: Notice --> Undefined index: user_type C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 64
+ERROR - 2019-08-05 14:17:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 80
+ERROR - 2019-08-05 14:17:50 --> Severity: Notice --> Undefined index: user_type C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 64
+ERROR - 2019-08-05 14:17:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 80
+ERROR - 2019-08-05 14:21:07 --> Severity: Notice --> Undefined index: user_type C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 64
+ERROR - 2019-08-05 14:21:07 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 80
+ERROR - 2019-08-05 14:21:19 --> Severity: Notice --> Undefined index: user_type C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 64
+ERROR - 2019-08-05 14:21:19 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 80
+ERROR - 2019-08-05 14:21:49 --> Severity: Notice --> Undefined index: user_type C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 64
+ERROR - 2019-08-05 14:21:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 80
+ERROR - 2019-08-05 14:22:20 --> Severity: Notice --> Undefined index: user_type C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 64
+ERROR - 2019-08-05 14:22:20 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 80
+ERROR - 2019-08-05 14:23:26 --> Severity: Notice --> Undefined index: user_type C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 64
+ERROR - 2019-08-05 14:23:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 80
+ERROR - 2019-08-05 14:23:36 --> Severity: Notice --> Undefined index: user_type C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 64
+ERROR - 2019-08-05 14:23:36 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 80
+ERROR - 2019-08-05 14:24:00 --> Severity: Notice --> Undefined index: user_type C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 64
+ERROR - 2019-08-05 14:24:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 80
+ERROR - 2019-08-05 14:24:27 --> Severity: Notice --> Undefined index: user_type C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 64
+ERROR - 2019-08-05 14:24:27 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 80
+ERROR - 2019-08-05 14:24:47 --> Severity: Notice --> Undefined index: user_type C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 64
+ERROR - 2019-08-05 14:24:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 80
+ERROR - 2019-08-05 14:26:23 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:26:28 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:27:25 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:28:54 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:30:16 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:30:48 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:31:00 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:35:02 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:37:03 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:37:04 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:37:06 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:43:39 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:43:39 --> Severity: error --> Exception: Call to undefined method UserModel::get_all_user() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 73
+ERROR - 2019-08-05 14:43:43 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:43:43 --> Severity: error --> Exception: Call to undefined method UserModel::get_all_user() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 73
+ERROR - 2019-08-05 14:52:37 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:52:37 --> Severity: error --> Exception: Call to undefined method UserModel::get_all_user() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 73
+ERROR - 2019-08-05 14:52:42 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:52:42 --> Severity: error --> Exception: Call to undefined method UserModel::get_all_user() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 73
+ERROR - 2019-08-05 14:52:43 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:52:43 --> Severity: error --> Exception: Call to undefined method UserModel::get_all_user() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 73
+ERROR - 2019-08-05 14:53:20 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:53:20 --> Severity: error --> Exception: Call to undefined method UserModel::get_all_user() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 73
+ERROR - 2019-08-05 14:53:23 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:53:23 --> Severity: error --> Exception: Call to undefined method UserModel::get_all_user() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 73
+ERROR - 2019-08-05 14:55:18 --> Severity: error --> Exception: syntax error, unexpected ')', expecting variable (T_VARIABLE) or '{' or '$' C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 71
+ERROR - 2019-08-05 14:55:25 --> Severity: error --> Exception: syntax error, unexpected ')', expecting variable (T_VARIABLE) or '{' or '$' C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 71
+ERROR - 2019-08-05 14:55:57 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 81
+ERROR - 2019-08-05 14:55:59 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:56:01 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:57:20 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:59:26 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:59:27 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 14:59:31 --> Severity: Notice --> Undefined index: dealer_distributor C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 15:00:07 --> Severity: Notice --> Undefined index: dealer_salesman C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 66
+ERROR - 2019-08-05 15:12:03 --> Severity: error --> Exception: syntax error, unexpected end of file, expecting function (T_FUNCTION) C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 104
+ERROR - 2019-08-05 15:12:17 --> Severity: error --> Exception: syntax error, unexpected end of file, expecting function (T_FUNCTION) C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 104
+ERROR - 2019-08-05 15:12:43 --> Severity: error --> Exception: syntax error, unexpected 'die' (T_EXIT), expecting function (T_FUNCTION) C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 101
+ERROR - 2019-08-05 15:15:41 --> Severity: error --> Exception: syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 98
+ERROR - 2019-08-05 15:15:50 --> Severity: error --> Exception: syntax error, unexpected '}', expecting end of file C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 100
+ERROR - 2019-08-05 15:16:05 --> Severity: error --> Exception: syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 98
+ERROR - 2019-08-05 15:16:21 --> Severity: Notice --> Undefined index: dealer_salesman C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 72
+ERROR - 2019-08-05 15:18:04 --> Severity: Notice --> Undefined index: dealer_salesman C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 65
+ERROR - 2019-08-05 15:18:07 --> Severity: Notice --> Undefined index: dealer_salesman C:\xampp\htdocs\zumacorporation\application\controllers\distributor\ReportController.php 65
+ERROR - 2019-08-05 15:44:18 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-05 15:44:20 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-05 16:25:44 --> Severity: Notice --> Undefined variable: query_row C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 54
+ERROR - 2019-08-05 16:25:44 --> Severity: error --> Exception: Function name must be a string C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 54
+ERROR - 2019-08-05 16:37:04 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-05 16:37:04 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-05 16:37:04 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67
+ERROR - 2019-08-05 16:39:19 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-05 16:39:19 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-05 16:39:19 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67
+ERROR - 2019-08-05 16:48:56 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-05 16:48:56 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-05 16:48:56 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67
+ERROR - 2019-08-05 17:32:18 --> Query error: Unknown column 'salesman_name' in 'field list' - Invalid query: SELECT `delivered_by`, `lr_number`, `date`, `salesman_name`
+FROM `orders`
+WHERE `id` = '2'
+ERROR - 2019-08-05 17:32:58 --> Query error: Unknown column 'salesman_name' in 'field list' - Invalid query: SELECT `delivered_by`, `lr_number`, `date`, `salesman_name`
+FROM `orders`
+WHERE `id` = '1'
+ERROR - 2019-08-05 17:33:20 --> Query error: Unknown column 'salesman_name' in 'field list' - Invalid query: SELECT `delivered_by`, `lr_number`, `date`, `salesman_name`
+FROM `orders`
+WHERE `id` = '1'
+ERROR - 2019-08-05 17:38:47 --> Query error: Unknown column 'salesman_name' in 'field list' - Invalid query: SELECT `delivered_by`, `lr_number`, `date`, `salesman_name`
+FROM `orders`
+WHERE `id` = '1'
+ERROR - 2019-08-05 17:38:48 --> Query error: Unknown column 'salesman_name' in 'field list' - Invalid query: SELECT `delivered_by`, `lr_number`, `date`, `salesman_name`
+FROM `orders`
+WHERE `id` = '1'
+ERROR - 2019-08-05 17:38:49 --> Query error: Unknown column 'salesman_name' in 'field list' - Invalid query: SELECT `delivered_by`, `lr_number`, `date`, `salesman_name`
+FROM `orders`
+WHERE `id` = '1'
+ERROR - 2019-08-05 17:38:49 --> Query error: Unknown column 'salesman_name' in 'field list' - Invalid query: SELECT `delivered_by`, `lr_number`, `date`, `salesman_name`
+FROM `orders`
+WHERE `id` = '1'
+ERROR - 2019-08-05 17:38:49 --> Query error: Unknown column 'salesman_name' in 'field list' - Invalid query: SELECT `delivered_by`, `lr_number`, `date`, `salesman_name`
+FROM `orders`
+WHERE `id` = '1'
+ERROR - 2019-08-05 17:38:51 --> Query error: Unknown column 'salesman_name' in 'field list' - Invalid query: SELECT `delivered_by`, `lr_number`, `date`, `salesman_name`
+FROM `orders`
+WHERE `id` = '5'
+ERROR - 2019-08-05 18:00:50 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:00:50 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:00:51 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:00:51 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:00:51 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:00:51 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:23 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:23 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:24 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:24 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:24 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:24 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:24 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:24 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:30 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:30 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:31 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:31 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:31 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:31 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:42 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:42 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:42 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:42 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:42 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:42 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:45 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:45 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:45 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:45 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:58 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:58 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:59 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:01:59 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:14 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:14 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:14 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:14 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:15 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:15 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:15 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:15 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:19 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:19 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:19 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:19 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:19 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:19 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:20 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:20 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:20 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:20 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:46 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:46 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:46 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:46 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:46 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:46 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:50 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:50 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:50 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:50 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:50 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:50 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:51 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:51 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:51 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:02:51 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:04:51 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:04:51 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:04:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:04:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:04:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:04:52 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:05:10 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:05:10 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:05:10 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:05:10 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:05:11 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:05:11 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:05:11 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:05:11 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:05:11 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:05:11 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:05:11 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:05:11 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:05:11 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:05:11 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:05:12 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:05:12 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:05:15 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:05:15 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:05:16 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:05:16 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:05:17 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:05:17 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:05:17 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:05:17 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:06:04 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:06:04 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:06:04 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:06:04 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:06:04 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:06:04 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:06:09 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:06:09 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:06:10 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:06:10 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:06:37 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:06:37 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:06:38 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:06:38 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:06:40 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:06:40 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:06:40 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:06:40 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:06:46 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:06:46 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:06:46 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:06:46 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:07:35 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:07:35 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:07:36 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:07:36 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:07:36 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:07:36 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:07:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:07:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:07:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:07:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:07:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:07:53 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:08:08 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:08:08 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:08:08 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:08:08 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:08:09 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:08:09 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:08:09 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:08:09 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-05 18:16:24 --> Severity: Notice --> Undefined variable: user_type C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 125
+ERROR - 2019-08-05 18:16:24 --> Severity: Notice --> Undefined variable: f_name C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 127
+ERROR - 2019-08-05 18:16:24 --> Severity: Notice --> Undefined variable: l_name C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 128
+ERROR - 2019-08-05 18:16:24 --> Severity: Notice --> Undefined variable: user_type C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 134
+ERROR - 2019-08-05 18:16:25 --> Severity: Notice --> Undefined variable: user_type C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 125
+ERROR - 2019-08-05 18:16:25 --> Severity: Notice --> Undefined variable: f_name C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 127
+ERROR - 2019-08-05 18:16:25 --> Severity: Notice --> Undefined variable: l_name C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 128
+ERROR - 2019-08-05 18:16:25 --> Severity: Notice --> Undefined variable: user_type C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 134
+ERROR - 2019-08-05 18:16:25 --> Severity: Notice --> Undefined variable: user_type C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 125
+ERROR - 2019-08-05 18:16:25 --> Severity: Notice --> Undefined variable: f_name C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 127
+ERROR - 2019-08-05 18:16:25 --> Severity: Notice --> Undefined variable: l_name C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 128
+ERROR - 2019-08-05 18:16:25 --> Severity: Notice --> Undefined variable: user_type C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 134
+ERROR - 2019-08-05 18:16:26 --> Severity: Notice --> Undefined variable: user_type C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 125
+ERROR - 2019-08-05 18:16:26 --> Severity: Notice --> Undefined variable: f_name C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 127
+ERROR - 2019-08-05 18:16:26 --> Severity: Notice --> Undefined variable: l_name C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 128
+ERROR - 2019-08-05 18:16:26 --> Severity: Notice --> Undefined variable: user_type C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 134
+ERROR - 2019-08-05 18:16:26 --> Severity: Notice --> Undefined variable: user_type C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 125
+ERROR - 2019-08-05 18:16:26 --> Severity: Notice --> Undefined variable: f_name C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 127
+ERROR - 2019-08-05 18:16:26 --> Severity: Notice --> Undefined variable: l_name C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 128
+ERROR - 2019-08-05 18:16:26 --> Severity: Notice --> Undefined variable: user_type C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 134
+ERROR - 2019-08-05 18:16:26 --> Severity: Notice --> Undefined variable: user_type C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 125
+ERROR - 2019-08-05 18:16:26 --> Severity: Notice --> Undefined variable: f_name C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 127
+ERROR - 2019-08-05 18:16:26 --> Severity: Notice --> Undefined variable: l_name C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 128
+ERROR - 2019-08-05 18:16:26 --> Severity: Notice --> Undefined variable: user_type C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 134
+ERROR - 2019-08-05 18:16:27 --> Severity: Notice --> Undefined variable: user_type C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 125
+ERROR - 2019-08-05 18:16:27 --> Severity: Notice --> Undefined variable: f_name C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 127
+ERROR - 2019-08-05 18:16:27 --> Severity: Notice --> Undefined variable: l_name C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 128
+ERROR - 2019-08-05 18:16:27 --> Severity: Notice --> Undefined variable: user_type C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 134
+ERROR - 2019-08-05 18:18:31 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:31 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:31 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:31 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:32 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:33 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:33 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:33 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:33 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:33 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:33 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:34 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:34 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:37 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:37 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:37 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:37 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:42 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:42 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:42 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:42 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:43 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:43 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:43 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:43 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:43 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:43 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:47 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:47 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:48 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:18:48 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:19:35 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:19:35 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:19:35 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:19:35 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:19:35 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:19:35 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:19:48 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:19:48 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:19:48 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:19:48 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:19:49 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:19:49 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:19:49 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:19:49 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:19:49 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:19:49 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:19:50 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:19:50 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:19:50 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:19:50 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:19:54 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:19:54 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:20:00 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:20:00 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:20:01 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:20:01 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\distributor\D_OrderModel.php 162
+ERROR - 2019-08-05 18:22:36 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-05 18:35:58 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-05 18:36:06 --> Your server does not support the GD function required to process this type of image.

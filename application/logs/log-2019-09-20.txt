@@ -1,0 +1,6 @@
+ERROR - 2019-09-20 11:38:27 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
+ERROR - 2019-09-20 11:38:48 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
+ERROR - 2019-09-20 11:38:57 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
+ERROR - 2019-09-20 11:39:19 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
+ERROR - 2019-09-20 17:09:54 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
+ERROR - 2019-09-20 17:09:54 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57

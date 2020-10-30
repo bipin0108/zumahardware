@@ -1,0 +1,94 @@
+ERROR - 2020-01-10 06:09:00 --> Query error: MySQL server has gone away - Invalid query: SELECT c.id, c.name, c.slug
+				FROM category c
+				WHERE 
+					c.id
+				IN (
+					SELECT s.subcat_parentid
+					FROM subcategory s
+					WHERE s.subcat_parentid = c.id
+					AND (
+
+						SELECT COUNT( p.subcategory ) 
+						FROM products p
+						WHERE s.subcat_id = p.subcategory
+					) > 0
+				)
+ERROR - 2020-01-10 09:33:18 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 09:33:32 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 09:33:32 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:03:47 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:14:46 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:25:07 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:25:10 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:25:10 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:27:28 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:27:31 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:27:34 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:27:36 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:27:45 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:27:51 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:27:52 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:28:13 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:28:13 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:28:16 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:28:16 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:28:41 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:29:08 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:29:11 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:29:12 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:29:48 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:29:48 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:29:51 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:29:51 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:30:31 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:30:35 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:30:38 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:30:44 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:30:44 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:30:47 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:30:48 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:30:58 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:30:59 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:30:59 --> Severity: Warning --> unlink(./uploads/products/products_multiple/original/1046733732_2841c96a5ef80bd235ce804ed8d5e9bf.jpg): No such file or directory /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 489
+ERROR - 2020-01-10 10:30:59 --> Severity: Warning --> unlink(./uploads/products/products_multiple/thumbnail/1046733732_2841c96a5ef80bd235ce804ed8d5e9bf.jpg): No such file or directory /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 490
+ERROR - 2020-01-10 10:30:59 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:30:59 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:30:59 --> Severity: Warning --> unlink(./uploads/products/products_multiple/original/1046733732_2841c96a5ef80bd235ce804ed8d5e9bf.jpg): No such file or directory /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 489
+ERROR - 2020-01-10 10:30:59 --> Severity: Warning --> unlink(./uploads/products/products_multiple/thumbnail/1046733732_2841c96a5ef80bd235ce804ed8d5e9bf.jpg): No such file or directory /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 490
+ERROR - 2020-01-10 10:31:00 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:31:00 --> Severity: Warning --> unlink(./uploads/products/products_multiple/original/1046733732_2841c96a5ef80bd235ce804ed8d5e9bf.jpg): No such file or directory /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 489
+ERROR - 2020-01-10 10:31:00 --> Severity: Warning --> unlink(./uploads/products/products_multiple/thumbnail/1046733732_2841c96a5ef80bd235ce804ed8d5e9bf.jpg): No such file or directory /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 490
+ERROR - 2020-01-10 10:31:00 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:31:00 --> Severity: Warning --> unlink(./uploads/products/products_multiple/original/1046733732_2841c96a5ef80bd235ce804ed8d5e9bf.jpg): No such file or directory /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 489
+ERROR - 2020-01-10 10:31:00 --> Severity: Warning --> unlink(./uploads/products/products_multiple/thumbnail/1046733732_2841c96a5ef80bd235ce804ed8d5e9bf.jpg): No such file or directory /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 490
+ERROR - 2020-01-10 10:31:03 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:34:39 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:34:39 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:34:50 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:34:50 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:34:54 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 10:34:54 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 11:08:26 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 11:08:43 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 11:08:43 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 16:54:46 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 16:54:55 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 16:55:08 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 16:55:08 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 16:55:31 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 16:55:31 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 16:55:37 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 16:55:46 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 16:56:23 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 16:56:24 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 16:56:32 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 16:56:36 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 16:57:27 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 16:57:27 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 16:57:33 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 16:57:33 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 16:57:50 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 16:57:55 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 16:57:55 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-01-10 17:05:15 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN /home/k17mppdsg436/public_html/application/models/admin/AdminModel.php 21
+ERROR - 2020-01-10 17:33:41 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN /home/k17mppdsg436/public_html/application/models/admin/AdminModel.php 21

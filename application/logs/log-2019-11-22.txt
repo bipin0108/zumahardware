@@ -1,0 +1,180 @@
+ERROR - 2019-11-22 09:49:28 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN /home/k17mppdsg436/public_html/application/models/admin/AdminModel.php 21
+ERROR - 2019-11-22 12:05:55 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN /home/k17mppdsg436/public_html/application/models/admin/AdminModel.php 21
+ERROR - 2019-11-22 12:06:08 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 12:11:10 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 12:11:11 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 12:11:18 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 12:11:18 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 12:20:53 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN /home/k17mppdsg436/public_html/application/models/admin/AdminModel.php 21
+ERROR - 2019-11-22 12:35:28 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN /home/k17mppdsg436/public_html/application/models/admin/AdminModel.php 21
+ERROR - 2019-11-22 12:35:38 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 12:36:07 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 12:36:07 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 12:36:24 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 12:36:24 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 12:37:42 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 12:37:44 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 12:37:44 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:06:10 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:06:16 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:06:17 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:07:11 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:07:12 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:07:14 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:07:15 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:09:21 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:09:21 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:10:19 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:10:19 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:10:21 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:10:21 --> Severity: error --> Exception: Call to undefined method ProductModel::get_about_product_by_id() /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 590
+ERROR - 2019-11-22 14:10:22 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:10:22 --> Severity: error --> Exception: Call to undefined method ProductModel::get_about_product_by_id() /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 590
+ERROR - 2019-11-22 14:10:30 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:10:30 --> Severity: error --> Exception: Call to undefined method ProductModel::get_about_product_by_id() /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 590
+ERROR - 2019-11-22 14:10:58 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:10:59 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:11:00 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:11:00 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:11:01 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:11:04 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:11:05 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:11:05 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:11:07 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:12:37 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:12:38 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:12:47 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:12:47 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:12:50 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:12:50 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:12:53 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:12:53 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:12:53 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:13:10 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:13:10 --> Severity: Notice --> Undefined index: title /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 253
+ERROR - 2019-11-22 14:13:10 --> Severity: Notice --> Undefined index: value /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 254
+ERROR - 2019-11-22 14:13:10 --> Severity: Warning --> array_combine() expects parameter 1 to be array, null given /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 255
+ERROR - 2019-11-22 14:13:10 --> Severity: Warning --> http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 256
+ERROR - 2019-11-22 14:13:10 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:13:28 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:13:29 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:13:33 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:13:34 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:14:47 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:14:48 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:20:06 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:20:06 --> Severity: Notice --> Undefined index: title /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 253
+ERROR - 2019-11-22 14:20:06 --> Severity: Notice --> Undefined index: value /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 254
+ERROR - 2019-11-22 14:20:06 --> Severity: Warning --> array_combine() expects parameter 1 to be array, null given /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 255
+ERROR - 2019-11-22 14:20:06 --> Severity: Warning --> http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 256
+ERROR - 2019-11-22 14:20:06 --> Severity: Notice --> Undefined index: id /home/k17mppdsg436/public_html/application/controllers/admin/ProductController.php 259
+ERROR - 2019-11-22 14:20:06 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - Invalid query: SELECT name FROM products WHERE id = 
+ERROR - 2019-11-22 14:20:14 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:20:14 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:20:23 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:20:23 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:20:26 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:20:26 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:20:33 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:20:33 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:20:38 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:20:38 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:35:53 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:35:54 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:35:56 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:35:58 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:35:59 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:36:34 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:36:34 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:38:22 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:38:23 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:38:24 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:38:25 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:38:25 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 14:38:27 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:01:51 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:14:47 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:14:49 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:14:52 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:15:07 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:15:08 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:15:19 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:15:19 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:15:21 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:15:21 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:15:39 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:15:39 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:16:15 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:16:15 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:16:20 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:16:22 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:16:22 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:16:24 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:16:25 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:16:26 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:16:28 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:16:30 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:16:30 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:16:32 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:16:34 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:16:35 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:16:38 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:16:40 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:16:41 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:16:42 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:16:44 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:16:44 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:16:47 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:16:50 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:16:50 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:16:52 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:16:54 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:16:54 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:16:56 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:16:58 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:16:58 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:17:32 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:17:37 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:17:37 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:17:48 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:35:14 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:35:16 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:38:49 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:39:19 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 15:39:20 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 16:54:56 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 16:54:56 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 16:54:59 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 16:55:01 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 16:55:07 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:11:40 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:11:42 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:11:51 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:11:52 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:11:59 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:11:59 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:12:00 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:12:01 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:12:09 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:12:09 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:12:10 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:12:11 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:12:13 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:12:13 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:12:13 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:12:21 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:12:21 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:54:32 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:54:34 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:54:34 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:54:41 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:54:44 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:54:44 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:54:58 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:54:58 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:55:06 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:55:06 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:55:10 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:55:12 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:55:13 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-11-22 17:55:16 --> Your server does not support the GD function required to process this type of image.

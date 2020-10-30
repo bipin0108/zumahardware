@@ -1,0 +1,1 @@
+ERROR - 2020-04-19 09:04:41 --> Severity: Notice --> Undefined index: product /home/k17mppdsg436/public_html/application/controllers/Home.php 50

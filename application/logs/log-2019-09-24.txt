@@ -1,0 +1,3 @@
+ERROR - 2019-09-24 13:10:01 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
+ERROR - 2019-09-24 14:32:10 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
+ERROR - 2019-09-24 14:32:22 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57

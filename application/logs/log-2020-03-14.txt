@@ -1,0 +1,30 @@
+ERROR - 2020-03-14 10:09:49 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN /home/k17mppdsg436/public_html/application/models/admin/AdminModel.php 21
+ERROR - 2020-03-14 10:11:21 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-14 10:12:48 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-14 10:12:48 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-14 10:32:32 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-14 10:32:32 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-14 10:33:45 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-14 10:34:12 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-14 10:34:12 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-14 10:38:36 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-14 10:38:37 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-14 11:13:23 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-14 11:14:26 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-14 11:14:26 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-14 11:18:05 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-14 11:18:06 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-14 11:19:47 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-14 11:19:48 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-14 13:08:12 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-14 13:08:16 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-14 13:08:17 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-14 13:08:41 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-14 13:08:56 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-14 13:08:57 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-14 13:09:06 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-14 13:09:19 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-14 13:09:21 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-14 13:09:49 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-03-14 17:18:06 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN /home/k17mppdsg436/public_html/application/models/admin/AdminModel.php 21
+ERROR - 2020-03-14 19:12:54 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN /home/k17mppdsg436/public_html/application/models/admin/AdminModel.php 21

@@ -1,0 +1,6 @@
+ERROR - 2019-08-03 12:16:09 --> Severity: error --> Exception: Unable to locate the model you have specified: D_OrderModel C:\xampp\htdocs\zumacorporation\system\core\Loader.php 348
+ERROR - 2019-08-03 12:16:11 --> Severity: error --> Exception: Unable to locate the model you have specified: D_OrderModel C:\xampp\htdocs\zumacorporation\system\core\Loader.php 348
+ERROR - 2019-08-03 12:46:58 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\zumacorporation\application\views\admin\dashboard\dashboard_template.php 49
+ERROR - 2019-08-03 12:50:37 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\zumacorporation\application\views\admin\dashboard\dashboard_template.php 49
+ERROR - 2019-08-03 12:50:37 --> Severity: Notice --> Array to string conversion C:\xampp\htdocs\zumacorporation\application\views\admin\dashboard\dashboard_template.php 63
+ERROR - 2019-08-03 12:58:57 --> Severity: error --> Exception: Call to undefined method OrderModel::completed_orders() C:\xampp\htdocs\zumacorporation\application\views\admin\order\completed_order.php 3

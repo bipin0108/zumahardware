@@ -1,0 +1,39 @@
+ERROR - 2020-10-20 12:26:43 --> You must specify a source image in your preferences.
+ERROR - 2020-10-20 12:26:43 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-10-20 12:26:45 --> You must specify a source image in your preferences.
+ERROR - 2020-10-20 12:26:45 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-10-20 12:27:26 --> You must specify a source image in your preferences.
+ERROR - 2020-10-20 12:27:26 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-10-20 12:28:27 --> You must specify a source image in your preferences.
+ERROR - 2020-10-20 12:28:27 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-10-20 12:29:05 --> You must specify a source image in your preferences.
+ERROR - 2020-10-20 12:29:05 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-10-20 12:30:05 --> You must specify a source image in your preferences.
+ERROR - 2020-10-20 12:30:05 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-10-20 12:30:28 --> You must specify a source image in your preferences.
+ERROR - 2020-10-20 12:30:28 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-10-20 12:30:37 --> You must specify a source image in your preferences.
+ERROR - 2020-10-20 12:30:37 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-10-20 12:30:38 --> You must specify a source image in your preferences.
+ERROR - 2020-10-20 12:30:38 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-10-20 12:30:40 --> You must specify a source image in your preferences.
+ERROR - 2020-10-20 12:30:40 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-10-20 12:40:28 --> You must specify a source image in your preferences.
+ERROR - 2020-10-20 12:40:28 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-10-20 12:40:29 --> You must specify a source image in your preferences.
+ERROR - 2020-10-20 12:40:29 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-10-20 12:40:33 --> You must specify a source image in your preferences.
+ERROR - 2020-10-20 12:40:33 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-10-20 12:40:35 --> You must specify a source image in your preferences.
+ERROR - 2020-10-20 12:40:35 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-10-20 12:40:37 --> You must specify a source image in your preferences.
+ERROR - 2020-10-20 12:40:37 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-10-20 12:40:39 --> You must specify a source image in your preferences.
+ERROR - 2020-10-20 12:40:39 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-10-20 12:52:50 --> You must specify a source image in your preferences.
+ERROR - 2020-10-20 12:52:50 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-10-20 12:53:12 --> You must specify a source image in your preferences.
+ERROR - 2020-10-20 12:53:12 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-10-20 15:53:12 --> Severity: Notice --> Undefined index: delivered D:\xampp\htdocs\zuma\application\controllers\admin\OrderController.php 65
+ERROR - 2020-10-20 15:53:12 --> Severity: Notice --> Undefined index: lr D:\xampp\htdocs\zuma\application\controllers\admin\OrderController.php 66
+ERROR - 2020-10-20 15:53:12 --> Severity: Notice --> Undefined index: date D:\xampp\htdocs\zuma\application\controllers\admin\OrderController.php 67

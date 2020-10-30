@@ -1,0 +1,277 @@
+ERROR - 2020-07-03 00:13:50 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:13:53 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:13:56 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:14:05 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:14:06 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:14:08 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:14:11 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:14:11 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:14:16 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:14:16 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:14:19 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:14:22 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:14:24 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:14:24 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:14:35 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:14:35 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:19:33 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:19:33 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:19:35 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:19:35 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:19:35 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:19:35 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:19:39 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:19:39 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:19:39 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:19:39 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:19:42 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:19:42 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:19:43 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:19:43 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:19:48 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:19:48 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:19:49 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:19:49 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:19:49 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:19:49 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:19:54 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:19:54 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:19:55 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:19:55 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:19:55 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:19:55 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:20:02 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:20:02 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:20:02 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:20:02 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:20:05 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:20:05 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:20:05 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:20:05 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:21:47 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:21:47 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:21:47 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:21:47 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:21:50 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:21:50 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:21:51 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:21:51 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:26:35 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:26:35 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:26:35 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:26:35 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:28:30 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:28:30 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:28:33 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:28:33 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:28:35 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:28:35 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:28:36 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:28:36 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:28:37 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:28:37 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:28:44 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:28:44 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:28:44 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:28:44 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:28:44 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:28:44 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:28:46 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:28:46 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:28:53 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:28:53 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:28:59 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 00:28:59 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:29:06 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:29:07 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 00:29:08 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 13:01:38 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 13:01:38 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 13:01:40 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 13:01:40 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 13:01:42 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 13:01:42 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 13:01:42 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 13:01:42 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 18:47:11 --> Severity: Notice --> Undefined variable: category D:\xampp\htdocs\zuma\application\controllers\Home.php 151
+ERROR - 2020-07-03 18:47:11 --> Severity: Notice --> Undefined variable: subcategory D:\xampp\htdocs\zuma\application\controllers\Home.php 151
+ERROR - 2020-07-03 18:47:11 --> Severity: Notice --> Undefined variable: products D:\xampp\htdocs\zuma\application\controllers\Home.php 151
+ERROR - 2020-07-03 18:52:21 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 18:52:21 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 18:52:23 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 18:52:23 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 18:52:24 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 18:52:24 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 18:52:27 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 18:52:27 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 18:52:28 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 18:52:28 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 19:31:38 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 19:31:38 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/frame_6.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrspec.php 568
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_0\mask_41_0.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_1\mask_41_1.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_2\mask_41_2.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_3\mask_41_3.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_4\mask_41_4.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_5\mask_41_5.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_6\mask_41_6.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_7\mask_41_7.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_0\mask_41_0.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_1\mask_41_1.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_2\mask_41_2.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_3\mask_41_3.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_4\mask_41_4.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_5\mask_41_5.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_6\mask_41_6.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_7\mask_41_7.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_0\mask_41_0.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_1\mask_41_1.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_2\mask_41_2.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_3\mask_41_3.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_4\mask_41_4.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_5\mask_41_5.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_6\mask_41_6.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_7\mask_41_7.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_0\mask_41_0.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_1\mask_41_1.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_2\mask_41_2.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_3\mask_41_3.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_4\mask_41_4.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_5\mask_41_5.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_6\mask_41_6.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_7\mask_41_7.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_0\mask_41_0.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_1\mask_41_1.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_2\mask_41_2.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_3\mask_41_3.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_4\mask_41_4.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_5\mask_41_5.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_6\mask_41_6.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_7\mask_41_7.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_0\mask_41_0.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_1\mask_41_1.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_2\mask_41_2.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_3\mask_41_3.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_4\mask_41_4.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_5\mask_41_5.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_6\mask_41_6.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_7\mask_41_7.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_0\mask_41_0.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_1\mask_41_1.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_2\mask_41_2.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_3\mask_41_3.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_4\mask_41_4.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_5\mask_41_5.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_6\mask_41_6.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_7\mask_41_7.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_0\mask_41_0.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_1\mask_41_1.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_2\mask_41_2.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_3\mask_41_3.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_4\mask_41_4.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_5\mask_41_5.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_6\mask_41_6.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_7\mask_41_7.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_0\mask_41_0.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_1\mask_41_1.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:46 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_2\mask_41_2.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:47 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:47 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_3\mask_41_3.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:47 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:47 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_4\mask_41_4.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:47 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:47 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_5\mask_41_5.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:47 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:47 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_6\mask_41_6.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:47 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:47 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_7\mask_41_7.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:47 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:47 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_0\mask_41_0.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:47 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:47 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_1\mask_41_1.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:47 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:47 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_2\mask_41_2.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:47 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:47 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_3\mask_41_3.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:47 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:47 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_4\mask_41_4.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:47 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:47 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_5\mask_41_5.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:47 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:47 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_6\mask_41_6.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:47 --> Severity: Warning --> mkdir(): No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 154
+ERROR - 2020-07-03 19:31:47 --> Severity: Warning --> file_put_contents(D:\xampp\htdocs\zuma\application/cache/mask_7\mask_41_7.dat): failed to open stream: No such file or directory D:\xampp\htdocs\zuma\application\libraries\qrcode\qrmask.php 155
+ERROR - 2020-07-03 19:31:47 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 19:31:47 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 19:32:05 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 19:32:05 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2020-07-03 19:32:08 --> You must specify a source image in your preferences.
+ERROR - 2020-07-03 19:32:08 --> Your server does not support the GD function required to process this type of image.

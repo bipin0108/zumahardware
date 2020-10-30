@@ -1,0 +1,323 @@
+ERROR - 2019-08-06 09:35:48 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN C:\xampp\htdocs\zumacorporation\application\models\admin\AdminModel.php 21
+ERROR - 2019-08-06 09:47:02 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN C:\xampp\htdocs\zumacorporation\application\models\admin\AdminModel.php 21
+ERROR - 2019-08-06 09:55:53 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 09:55:54 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 09:55:59 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 09:56:12 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 09:56:17 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 09:56:19 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 09:58:46 --> Severity: error --> Exception: Call to undefined method UserModel::get_all_user() C:\xampp\htdocs\zumacorporation\application\views\admin\user\list_user.php 4
+ERROR - 2019-08-06 09:58:49 --> Severity: error --> Exception: Call to undefined method UserModel::get_all_user() C:\xampp\htdocs\zumacorporation\application\views\admin\user\list_user.php 4
+ERROR - 2019-08-06 09:59:57 --> Severity: error --> Exception: Call to undefined method UserModel::get_all_user() C:\xampp\htdocs\zumacorporation\application\controllers\admin\ReportController.php 69
+ERROR - 2019-08-06 10:00:02 --> Severity: error --> Exception: Call to undefined method UserModel::get_all_user() C:\xampp\htdocs\zumacorporation\application\controllers\admin\ReportController.php 69
+ERROR - 2019-08-06 10:00:08 --> Severity: error --> Exception: Call to undefined method UserModel::get_all_user() C:\xampp\htdocs\zumacorporation\application\controllers\admin\ReportController.php 69
+ERROR - 2019-08-06 10:43:39 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 10:43:45 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 11:51:26 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 11:51:31 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 11:51:35 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 11:51:39 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 11:51:39 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 11:52:07 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 11:52:07 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 11:56:57 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 11:56:58 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 11:58:12 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 11:58:19 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:00:29 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:00:31 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:02:41 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:03:37 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:03:39 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:03:41 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:04:44 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:04:47 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:04:48 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:05:09 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:05:11 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:05:14 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:05:34 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:05:35 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:05:44 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:05:45 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:05:57 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:05:59 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:07:20 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:07:21 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:07:32 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:07:32 --> Query error: Unknown column 'p.price' in 'field list' - Invalid query: 
+			SELECT p.id, p.name, p.description, p.price, p.product_image, p.installation_guide_images, p.installation_guide_videos,c.name category,sc.subcat_name subcategory
+			FROM  products p
+			LEFT JOIN category c ON p.category = c.id
+			LEFT JOIN subcategory sc ON p.subcategory = sc.subcat_id 
+			WHERE 1 ORDER BY id DESC
+ERROR - 2019-08-06 12:07:37 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:07:37 --> Query error: Unknown column 'p.price' in 'field list' - Invalid query: 
+			SELECT p.id, p.name, p.description, p.price, p.product_image, p.installation_guide_images, p.installation_guide_videos,c.name category,sc.subcat_name subcategory
+			FROM  products p
+			LEFT JOIN category c ON p.category = c.id
+			LEFT JOIN subcategory sc ON p.subcategory = sc.subcat_id 
+			WHERE 1 ORDER BY id DESC
+ERROR - 2019-08-06 12:08:21 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:08:23 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:08:26 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:08:28 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:08:29 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:08:31 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:09:31 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:09:31 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:09:38 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:09:41 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:09:41 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:09:55 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:09:57 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:09:57 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:10:01 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:10:03 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:10:03 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:10:16 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:10:18 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:10:18 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:10:21 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:10:34 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:10:49 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:10:53 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:10:55 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:11:06 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:11:09 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:11:12 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:11:17 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:11:24 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:11:29 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:11:45 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:11:46 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:12:01 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:12:09 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:12:15 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:12:15 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:12:19 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:12:19 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:21:19 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 12:39:06 --> Severity: error --> Exception: syntax error, unexpected end of file, expecting function (T_FUNCTION) C:\xampp\htdocs\zumacorporation\application\controllers\admin\NotificationController.php 91
+ERROR - 2019-08-06 12:42:05 --> Severity: error --> Exception: syntax error, unexpected '}', expecting end of file C:\xampp\htdocs\zumacorporation\application\controllers\admin\NotificationController.php 91
+ERROR - 2019-08-06 12:42:15 --> Severity: error --> Exception: syntax error, unexpected '$data' (T_VARIABLE), expecting function (T_FUNCTION) C:\xampp\htdocs\zumacorporation\application\controllers\admin\NotificationController.php 87
+ERROR - 2019-08-06 14:11:41 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '? 
+   				AND o.user_id != ? AND o.order_status='pending'' at line 3 - Invalid query: SELECT o.* FROM orders AS o 
+   				INNER JOIN users AS u 
+   				ON o.user_id = u.user_id AND u.distributor_id = ? 
+   				AND o.user_id != ? AND o.order_status='pending'
+ERROR - 2019-08-06 14:33:09 --> Severity: error --> Exception: syntax error, unexpected '$query' (T_VARIABLE) C:\xampp\htdocs\zumacorporation\application\models\admin\UserModel.php 65
+ERROR - 2019-08-06 14:34:41 --> Severity: error --> Exception: syntax error, unexpected '$query' (T_VARIABLE) C:\xampp\htdocs\zumacorporation\application\models\admin\UserModel.php 66
+ERROR - 2019-08-06 14:34:42 --> Severity: error --> Exception: syntax error, unexpected '$query' (T_VARIABLE) C:\xampp\htdocs\zumacorporation\application\models\admin\UserModel.php 66
+ERROR - 2019-08-06 14:34:51 --> Severity: error --> Exception: syntax error, unexpected '$query' (T_VARIABLE) C:\xampp\htdocs\zumacorporation\application\models\admin\UserModel.php 66
+ERROR - 2019-08-06 14:34:52 --> Severity: error --> Exception: syntax error, unexpected '$query' (T_VARIABLE) C:\xampp\htdocs\zumacorporation\application\models\admin\UserModel.php 66
+ERROR - 2019-08-06 14:34:52 --> Severity: error --> Exception: syntax error, unexpected '$query' (T_VARIABLE) C:\xampp\htdocs\zumacorporation\application\models\admin\UserModel.php 66
+ERROR - 2019-08-06 14:34:53 --> Severity: error --> Exception: syntax error, unexpected '$query' (T_VARIABLE) C:\xampp\htdocs\zumacorporation\application\models\admin\UserModel.php 66
+ERROR - 2019-08-06 14:35:21 --> Query error:  - Invalid query: 
+ERROR - 2019-08-06 14:39:55 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= '0'' at line 3 - Invalid query: SELECT *
+FROM `users`
+WHERE  = '0'
+ERROR - 2019-08-06 14:39:58 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= '0'' at line 3 - Invalid query: SELECT *
+FROM `users`
+WHERE  = '0'
+ERROR - 2019-08-06 14:43:35 --> Severity: error --> Exception: syntax error, unexpected '$query' (T_VARIABLE) C:\xampp\htdocs\zumacorporation\application\models\admin\UserModel.php 65
+ERROR - 2019-08-06 14:50:14 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN C:\xampp\htdocs\zumacorporation\application\models\admin\AdminModel.php 21
+ERROR - 2019-08-06 14:56:32 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 14:56:36 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 14:56:41 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 14:56:41 --> Severity: Warning --> require_once(C:\xampp\htdocs\zumacorporation\vendor/composer/autoload_real.php): failed to open stream: No such file or directory C:\xampp\htdocs\zumacorporation\vendor\autoload.php 5
+ERROR - 2019-08-06 14:57:15 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 14:57:15 --> Severity: Warning --> require(C:\xampp\htdocs\zumacorporation\vendor\composer/../symfony/polyfill-ctype/bootstrap.php): failed to open stream: No such file or directory C:\xampp\htdocs\zumacorporation\vendor\composer\autoload_real.php 66
+ERROR - 2019-08-06 14:58:51 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 14:59:17 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 14:59:20 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 14:59:20 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 14:59:36 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 14:59:38 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 14:59:44 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 14:59:44 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:00:15 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:00:16 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:00:19 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:00:26 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:00:26 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:00:50 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:00:51 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:01:05 --> Query error: Unknown column 'salesman_id' in 'field list' - Invalid query: SELECT `delivered_by`, `lr_number`, `date`, `salesman_id`
+FROM `orders`
+WHERE `id` = '13'
+ERROR - 2019-08-06 15:01:06 --> Query error: Unknown column 'salesman_id' in 'field list' - Invalid query: SELECT `delivered_by`, `lr_number`, `date`, `salesman_id`
+FROM `orders`
+WHERE `id` = '13'
+ERROR - 2019-08-06 15:01:07 --> Query error: Unknown column 'salesman_id' in 'field list' - Invalid query: SELECT `delivered_by`, `lr_number`, `date`, `salesman_id`
+FROM `orders`
+WHERE `id` = '12'
+ERROR - 2019-08-06 15:01:08 --> Query error: Unknown column 'salesman_id' in 'field list' - Invalid query: SELECT `delivered_by`, `lr_number`, `date`, `salesman_id`
+FROM `orders`
+WHERE `id` = '12'
+ERROR - 2019-08-06 15:12:03 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:12:41 --> Query error: Unknown column 'salesman_id' in 'field list' - Invalid query: SELECT `delivered_by`, `lr_number`, `date`, `salesman_id`
+FROM `orders`
+WHERE `id` = '13'
+ERROR - 2019-08-06 15:12:41 --> Query error: Unknown column 'salesman_id' in 'field list' - Invalid query: SELECT `delivered_by`, `lr_number`, `date`, `salesman_id`
+FROM `orders`
+WHERE `id` = '13'
+ERROR - 2019-08-06 15:12:43 --> Query error: Unknown column 'salesman_id' in 'field list' - Invalid query: SELECT `delivered_by`, `lr_number`, `date`, `salesman_id`
+FROM `orders`
+WHERE `id` = '13'
+ERROR - 2019-08-06 15:13:36 --> Query error: Unknown column 'salesman_id' in 'field list' - Invalid query: SELECT `delivered_by`, `lr_number`, `date`, `salesman_id`
+FROM `orders`
+WHERE `id` = '13'
+ERROR - 2019-08-06 15:13:40 --> Severity: Notice --> Undefined index: order_id C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 106
+ERROR - 2019-08-06 15:13:40 --> Query error: Unknown column 'salesman_id' in 'field list' - Invalid query: SELECT `delivered_by`, `lr_number`, `date`, `salesman_id`
+FROM `orders`
+WHERE `id` IS NULL
+ERROR - 2019-08-06 15:20:10 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:20:11 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:21:03 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-06 15:21:03 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-06 15:21:05 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-06 15:21:05 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-06 15:28:38 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-06 15:28:38 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-06 15:28:39 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-06 15:28:39 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-06 15:28:39 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-06 15:28:39 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-06 15:28:39 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-06 15:28:39 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-06 15:28:49 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-06 15:28:49 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\zumacorporation\application\models\admin\OrderModel.php 82
+ERROR - 2019-08-06 15:44:18 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:44:19 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:44:26 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:44:28 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:44:52 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:45:01 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:45:35 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:45:48 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:45:50 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:46:43 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:47:22 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:47:30 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:47:38 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:47:41 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:47:44 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:47:46 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:47:48 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:51:37 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:51:38 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:51:40 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:51:40 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:51:41 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:51:45 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:51:47 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:51:47 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:51:47 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:51:47 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:51:47 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:51:48 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:56:14 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:56:16 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:56:18 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:56:28 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:56:29 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:56:54 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:56:56 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:58:58 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 15:59:01 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 16:12:01 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-06 16:12:01 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-06 16:12:01 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67
+ERROR - 2019-08-06 17:27:14 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 17:28:04 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 17:28:06 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 17:34:38 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 17:34:39 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 17:35:06 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 17:35:10 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 17:39:24 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 17:39:28 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 17:39:30 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 17:39:34 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 17:39:38 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 17:39:41 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 17:40:14 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 17:40:15 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 17:40:16 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 17:40:20 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 17:40:26 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-08-06 17:43:17 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-06 17:43:17 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-06 17:43:17 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67
+ERROR - 2019-08-06 17:43:29 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-06 17:43:29 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-06 17:43:29 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67
+ERROR - 2019-08-06 17:44:53 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-06 17:44:53 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-06 17:44:53 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67
+ERROR - 2019-08-06 17:45:14 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-06 17:45:14 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-06 17:45:14 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67
+ERROR - 2019-08-06 17:46:08 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-06 17:46:08 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-06 17:46:08 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67
+ERROR - 2019-08-06 17:51:08 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-06 17:51:08 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-06 17:51:08 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67
+ERROR - 2019-08-06 18:18:44 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-06 18:18:44 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-06 18:18:44 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67
+ERROR - 2019-08-06 18:18:44 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-06 18:18:44 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-06 18:18:44 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67
+ERROR - 2019-08-06 18:20:27 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-06 18:20:27 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-06 18:20:27 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67
+ERROR - 2019-08-06 18:20:48 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-06 18:20:48 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-06 18:20:48 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67
+ERROR - 2019-08-06 18:20:48 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-06 18:20:48 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-06 18:20:48 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67
+ERROR - 2019-08-06 18:22:00 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN C:\xampp\htdocs\zumacorporation\application\models\admin\AdminModel.php 21
+ERROR - 2019-08-06 18:22:24 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-06 18:22:24 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-06 18:22:24 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67
+ERROR - 2019-08-06 18:22:24 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-06 18:22:24 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-06 18:22:24 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67
+ERROR - 2019-08-06 18:23:21 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-06 18:23:21 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-06 18:23:21 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67
+ERROR - 2019-08-06 18:23:21 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-06 18:23:21 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-06 18:23:21 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67
+ERROR - 2019-08-06 18:24:31 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-06 18:24:31 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-06 18:24:31 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67
+ERROR - 2019-08-06 18:39:09 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-06 18:39:09 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-06 18:39:09 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67
+ERROR - 2019-08-06 18:39:09 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-06 18:39:09 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-06 18:39:09 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67
+ERROR - 2019-08-06 18:42:20 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-06 18:42:20 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-06 18:42:20 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67
+ERROR - 2019-08-06 18:48:20 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-06 18:48:20 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-06 18:48:20 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67
+ERROR - 2019-08-06 18:49:00 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-06 18:49:00 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-06 18:49:00 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67
+ERROR - 2019-08-06 18:50:05 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-06 18:50:05 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-06 18:50:05 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67
+ERROR - 2019-08-06 19:08:47 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN C:\xampp\htdocs\zumacorporation\application\models\admin\AdminModel.php 21
+ERROR - 2019-08-06 19:12:48 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-06 19:12:48 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-06 19:12:48 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67
+ERROR - 2019-08-06 19:13:32 --> Severity: Notice --> Undefined index: delivered C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 65
+ERROR - 2019-08-06 19:13:32 --> Severity: Notice --> Undefined index: lr C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 66
+ERROR - 2019-08-06 19:13:32 --> Severity: Notice --> Undefined index: date C:\xampp\htdocs\zumacorporation\application\controllers\admin\OrderController.php 67

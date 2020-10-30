@@ -1,0 +1,65 @@
+ERROR - 2019-09-02 10:39:39 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN /home/k17mppdsg436/public_html/application/models/admin/AdminModel.php 21
+ERROR - 2019-09-02 10:42:36 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 10:42:42 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 10:47:15 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 10:48:34 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 10:48:35 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 10:48:45 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 10:53:23 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 10:53:34 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 10:53:44 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 10:56:13 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 10:56:24 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 10:56:26 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 10:56:30 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 10:57:02 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 10:57:16 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 10:58:07 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 11:14:49 --> Severity: Notice --> Undefined index: delivered /home/k17mppdsg436/public_html/application/controllers/distributor/OrderController.php 77
+ERROR - 2019-09-02 11:14:49 --> Severity: Notice --> Undefined index: lr /home/k17mppdsg436/public_html/application/controllers/distributor/OrderController.php 78
+ERROR - 2019-09-02 11:14:49 --> Severity: Notice --> Undefined index: date /home/k17mppdsg436/public_html/application/controllers/distributor/OrderController.php 79
+ERROR - 2019-09-02 14:32:03 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN /home/k17mppdsg436/public_html/application/models/admin/AdminModel.php 21
+ERROR - 2019-09-02 14:32:43 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_USER /home/k17mppdsg436/public_html/application/models/distributor/D_distributorModel.php 21
+ERROR - 2019-09-02 14:33:58 --> Severity: Notice --> Undefined index: delivered /home/k17mppdsg436/public_html/application/controllers/distributor/OrderController.php 77
+ERROR - 2019-09-02 14:33:58 --> Severity: Notice --> Undefined index: lr /home/k17mppdsg436/public_html/application/controllers/distributor/OrderController.php 78
+ERROR - 2019-09-02 14:33:58 --> Severity: Notice --> Undefined index: date /home/k17mppdsg436/public_html/application/controllers/distributor/OrderController.php 79
+ERROR - 2019-09-02 14:43:36 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 14:43:39 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 14:44:06 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 14:44:19 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 14:44:33 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 16:56:17 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_USER /home/k17mppdsg436/public_html/application/models/distributor/D_distributorModel.php 21
+ERROR - 2019-09-02 16:56:20 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN /home/k17mppdsg436/public_html/application/models/admin/AdminModel.php 21
+ERROR - 2019-09-02 18:05:07 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 18:05:10 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 18:05:14 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 18:05:15 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 18:05:17 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 18:18:34 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 18:18:53 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 18:18:56 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 18:19:04 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 18:19:11 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 18:19:27 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 18:25:46 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 18:25:47 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 18:25:56 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 18:26:03 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 18:26:07 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 18:26:14 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 18:26:17 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 18:30:12 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 18:31:47 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 18:31:50 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 18:31:55 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 18:32:04 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 18:32:08 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 18:32:17 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 18:44:08 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 18:45:14 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 18:47:47 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 18:48:07 --> Your server does not support the GD function required to process this type of image.
+ERROR - 2019-09-02 19:01:47 --> Severity: Notice --> Undefined index: delivered /home/k17mppdsg436/public_html/application/controllers/distributor/OrderController.php 77
+ERROR - 2019-09-02 19:01:47 --> Severity: Notice --> Undefined index: lr /home/k17mppdsg436/public_html/application/controllers/distributor/OrderController.php 78
+ERROR - 2019-09-02 19:01:47 --> Severity: Notice --> Undefined index: date /home/k17mppdsg436/public_html/application/controllers/distributor/OrderController.php 79
+ERROR - 2019-09-02 19:24:02 --> Your server does not support the GD function required to process this type of image.
