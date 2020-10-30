@@ -1,1 +1,0 @@
-ERROR - 2019-09-15 15:17:01 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57

@@ -1,6 +1,0 @@
-ERROR - 2019-12-09 10:06:35 --> Your server does not support the GD function required to process this type of image.
-ERROR - 2019-12-09 10:06:38 --> Your server does not support the GD function required to process this type of image.
-ERROR - 2019-12-09 10:06:39 --> Your server does not support the GD function required to process this type of image.
-ERROR - 2019-12-09 10:07:03 --> Your server does not support the GD function required to process this type of image.
-ERROR - 2019-12-09 10:07:06 --> Your server does not support the GD function required to process this type of image.
-ERROR - 2019-12-09 10:07:07 --> Your server does not support the GD function required to process this type of image.

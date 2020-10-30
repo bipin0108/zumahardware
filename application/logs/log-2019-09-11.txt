@@ -1,1 +1,0 @@
-ERROR - 2019-09-11 08:22:12 --> Severity: Warning --> Invalid argument supplied for foreach() /home/k17mppdsg436/public_html/application/views/frontend/subcategory_view.php 35

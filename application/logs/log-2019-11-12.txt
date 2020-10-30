@@ -1,6 +1,0 @@
-ERROR - 2019-11-12 10:42:13 --> Your server does not support the GD function required to process this type of image.
-ERROR - 2019-11-12 14:52:00 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_USER /home/k17mppdsg436/public_html/application/models/distributor/D_distributorModel.php 21
-ERROR - 2019-11-12 14:52:10 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN /home/k17mppdsg436/public_html/application/models/admin/AdminModel.php 21
-ERROR - 2019-11-12 15:55:43 --> Severity: Notice --> Undefined index: delivered /home/k17mppdsg436/public_html/application/controllers/distributor/OrderController.php 77
-ERROR - 2019-11-12 15:55:43 --> Severity: Notice --> Undefined index: lr /home/k17mppdsg436/public_html/application/controllers/distributor/OrderController.php 78
-ERROR - 2019-11-12 15:55:43 --> Severity: Notice --> Undefined index: date /home/k17mppdsg436/public_html/application/controllers/distributor/OrderController.php 79

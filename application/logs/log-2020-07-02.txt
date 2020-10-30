@@ -1,1 +1,0 @@
-ERROR - 2020-07-02 23:43:05 --> Your server does not support the GD function required to process this type of image.

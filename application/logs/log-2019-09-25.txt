@@ -1,7 +1,0 @@
-ERROR - 2019-09-25 03:24:57 --> Severity: Notice --> Trying to get property 'id' of non-object /home/k17mppdsg436/public_html/application/models/HomeModel.php 74
-ERROR - 2019-09-25 15:02:33 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
-ERROR - 2019-09-25 15:03:00 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
-ERROR - 2019-09-25 15:27:29 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN /home/k17mppdsg436/public_html/application/models/admin/AdminModel.php 21
-ERROR - 2019-09-25 15:27:49 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
-ERROR - 2019-09-25 15:45:32 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
-ERROR - 2019-09-25 15:52:46 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57

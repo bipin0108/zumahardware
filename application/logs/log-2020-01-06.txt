@@ -1,5 +1,0 @@
-ERROR - 2020-01-06 11:08:04 --> Your server does not support the GD function required to process this type of image.
-ERROR - 2020-01-06 11:08:24 --> Your server does not support the GD function required to process this type of image.
-ERROR - 2020-01-06 11:08:24 --> Your server does not support the GD function required to process this type of image.
-ERROR - 2020-01-06 11:08:36 --> Your server does not support the GD function required to process this type of image.
-ERROR - 2020-01-06 11:08:36 --> Your server does not support the GD function required to process this type of image.

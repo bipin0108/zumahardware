@@ -1,6 +1,0 @@
-ERROR - 2019-09-06 09:31:20 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_ADMIN /home/k17mppdsg436/public_html/application/models/admin/AdminModel.php 21
-ERROR - 2019-09-06 12:02:57 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
-ERROR - 2019-09-06 12:04:12 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
-ERROR - 2019-09-06 14:32:43 --> Your server does not support the GD function required to process this type of image.
-ERROR - 2019-09-06 14:32:53 --> Your server does not support the GD function required to process this type of image.
-ERROR - 2019-09-06 16:09:16 --> Your server does not support the GD function required to process this type of image.

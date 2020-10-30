@@ -1,3 +1,0 @@
-ERROR - 2020-03-27 07:38:04 --> Severity: Notice --> Undefined index: product /home/k17mppdsg436/public_html/application/controllers/Home.php 50
-ERROR - 2020-03-27 19:03:56 --> Severity: Notice --> Undefined index: product /home/k17mppdsg436/public_html/application/controllers/Home.php 50
-ERROR - 2020-03-27 19:03:57 --> Severity: Notice --> Undefined index: product /home/k17mppdsg436/public_html/application/controllers/Home.php 50

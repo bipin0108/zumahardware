@@ -1,9 +1,0 @@
-ERROR - 2019-10-10 09:27:56 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
-ERROR - 2019-10-10 09:51:29 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
-ERROR - 2019-10-10 14:11:33 --> Severity: Notice --> Undefined index: ZUMACORPORATION_SESSION_USER /home/k17mppdsg436/public_html/application/models/distributor/D_distributorModel.php 21
-ERROR - 2019-10-10 17:05:48 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
-ERROR - 2019-10-10 17:11:07 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
-ERROR - 2019-10-10 17:25:54 --> Severity: Notice --> Undefined variable: pagination /home/k17mppdsg436/public_html/application/views/frontend/category.php 57
-ERROR - 2019-10-10 18:02:34 --> Your server does not support the GD function required to process this type of image.
-ERROR - 2019-10-10 18:02:49 --> Your server does not support the GD function required to process this type of image.
-ERROR - 2019-10-10 18:02:54 --> Your server does not support the GD function required to process this type of image.
